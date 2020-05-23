@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de tiempo de ruta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <img id="walker" src="/img/animacion_camniar_diver.gif">
+
+  
+    <div id="titulo">
+        <h2>Calculadora de tiempo estimado de ruta</h2>
+        <h3>SENDERISMO Y MONTAÑISMO</h3>
+        
+    </div>
+
+    <div id="parametros">
+        <p>*Parámetros: 300 m+/h, 500 m-/h y 4 km/h</p>
+        </div>
+    
+    <div id="box">
+        <input id="desnivelp" placeholder="Desnivel positivo">
+        <input id="desniveln" placeholder="Desnivel negativo">
+        <input id="distancia" placeholder="Distancia en km">
+          <button onclick="Ttotal()">Calcular</button>
+          <button onclick="limpiar()">Limpiar</button>
+          <div id="resultado"></div>
+          <div id="error"><div>
+      </div>           
+         
+    <script src=calcutiempo.js></script>
+
+</body>
+</html>
