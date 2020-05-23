@@ -12,6 +12,7 @@ El algoritmo utilizado tiene en cuenta si el recorrido es proporcionalmente mayo
 Podéis verla en funcionamiento en los siguientes enlaces:
 
 https://oscaraleman.com/es/calculadora-de-tiempo-de-ruta/
+
 https://codepen.io/oscarclimb/full/jObrGzj
 
 Bajo licencia permisiva MIT.
