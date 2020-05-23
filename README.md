@@ -10,6 +10,7 @@ Distancia 4 km/h
 El algoritmo utilizado tiene en cuenta si el recorrido es proporcionalmente mayor en desnivel que en distancia, con lo que al horario mayor (segun la distancia o el desnivel) se le suma la mitad del menor.
 
 Podéis verla en funcionamiento en los siguientes enlaces:
+
 https://oscaraleman.com/es/calculadora-de-tiempo-de-ruta/
 https://codepen.io/oscarclimb/full/jObrGzj
 
